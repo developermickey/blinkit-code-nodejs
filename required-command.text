@@ -1,0 +1,1 @@
+npm i express cors mongoose jsonwebtoken bcrypt cookies-parser dotenv morgan helmet
